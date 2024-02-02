@@ -52,3 +52,7 @@ you're interested in helping out with Geyser.
 - [Steveice10's Java Protocol Library](https://github.com/Steveice10/MCProtocolLib)
 - [TerminalConsoleAppender](https://github.com/Minecrell/TerminalConsoleAppender)
 - [Simple Logging Facade for Java (slf4j)](https://github.com/qos-ch/slf4j)
+
+## What has been modified in this fork?
+I just changed the version support in fabric.mod.json to 1.20.1, which may cause some issues to occur. Therefore, do not apply to production environments!
+Download at: https://github.com/vvcDaDa/Geyser/actions
